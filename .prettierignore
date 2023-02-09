@@ -1,0 +1,6 @@
+dist/
+pnpm-lock.yaml
+./src-tauri
+
+# Ignore all HTML files:
+*.html
